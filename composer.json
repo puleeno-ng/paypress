@@ -1,0 +1,21 @@
+{
+    "name": "puleeno-ng/paypress",
+    "description": "The payment system for WordPress",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Puleeno Ng.",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ramphor/facades": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "PayPress\\": "src/"
+        }
+    }
+}
