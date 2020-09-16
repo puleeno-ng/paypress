@@ -1,5 +1,5 @@
 {
-    "name": "puleeno-ng/paypress",
+    "name": "puleeno/paypress",
     "description": "The payment system for WordPress",
     "type": "library",
     "license": "MIT",
