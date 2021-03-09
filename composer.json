@@ -1,6 +1,6 @@
 {
     "name": "puleeno/pomnipay",
-    "description": "The payment system for WordPress",
+    "description": "Open WordPress payment gateway build on top league/omnipay",
     "type": "library",
     "license": "MIT",
     "authors": [
