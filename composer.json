@@ -1,5 +1,5 @@
 {
-    "name": "puleeno/paypress",
+    "name": "puleeno/pomnipay",
     "description": "The payment system for WordPress",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PayPress\\": "src/"
+            "Pomnipay\\": "src/"
         }
     }
 }
